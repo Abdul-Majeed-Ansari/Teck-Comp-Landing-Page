@@ -1,0 +1,56 @@
+
+/* logo */
+#logo{
+    width: 100px;
+    margin-right: 100px;
+}
+
+
+.nav-item a{
+    color: white;
+    margin-right: 20px;
+}
+
+.btn{
+    margin-right: 20px;
+}
+
+@media only screen and (max-width: 1200px){
+    #logo{
+        margin-right: 50px;
+    }
+  
+.nav-item a{
+    margin-right: 10px;
+}
+
+.btn{
+    margin-right: 10px;
+}
+}
+
+/* @media only screen and (max-width: 990px){
+    .btn{
+
+    }
+} */
+
+/* banner */
+
+#banner-text{
+    padding-top: 100px;
+    margin-left: 80px;
+}
+
+#banner-text h1{
+    margin: 5px 0px;
+}
+
+#banner-text p{
+    margin-top: 20px;
+}
+
+#banner-img{
+    width: 70%;
+    padding-top: 50px;
+}
